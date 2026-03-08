@@ -1,4 +1,84 @@
-[
+[{
+    "name": "Abstract Sunrise",
+    "filename": "abstract sunrise.png",
+    "category": "abstract",
+    "path": "wallpapers/abstract/abstract sunrise.png",
+    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/abstract/abstract%20sunrise.png",
+    "description": "Abstract image of sunrise over a beach",
+    "tags": ["abstract"]
+  },
+  {
+  "name": "Shahrazad",
+  "filename": "shahrazad.png",
+  "category": "art_deco",
+  "path": "wallpapers/art_deco/shahrazad.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/art_deco/shahrazad.png",
+  "description": "Art Deco style illustration inspired by Shahrazad",
+  "tags": ["art_deco"]
+},
+  {
+  "name": "King Tut",
+  "filename": "kingtut.png",
+  "category": "artefacts",
+  "path": "wallpapers/artefacts/kingtut.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/artefacts/kingtut.png",
+  "description": "Ancient Egyptian artefact depicting the mask of King Tutankhamun",
+  "tags": ["artefacts"]
+},
+  {
+  "name": "Palm Tree",
+  "filename": "palm tree.png",
+  "category": "cyberpunk",
+  "path": "wallpapers/cyberpunk/palm tree.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/cyberpunk/palm%20tree.png",
+  "description": "Cyberpunk-style neon palm tree against a futuristic skyline",
+  "tags": ["cyberpunk"]
+},
+{
+  "name": "Gin Tonic",
+  "filename": "gin tonic.png",
+  "category": "food_and_drink",
+  "path": "wallpapers/food_and_drink/gin tonic.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/food_and_drink/gin%20tonic.png",
+  "description": "Refreshing gin and tonic drink with ice and lime",
+  "tags": ["food_and_drink"]
+},
+  {
+  "name": "Cassette",
+  "filename": "cassette.png",
+  "category": "retro",
+  "path": "wallpapers/retro/cassette.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/retro/cassette.png",
+  "description": "Retro cassette tape representing vintage music culture",
+  "tags": ["retro"]
+},
+  {
+  "name": "Milky Way",
+  "filename": "milky way.png",
+  "category": "space",
+  "path": "wallpapers/space/milky way.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/space/milky%20way.png",
+  "description": "Star-filled view of the Milky Way galaxy across the night sky",
+  "tags": ["space"]
+},
+  {
+  "name": "Shibuya Crossing",
+  "filename": "shibuya crossing.png",
+  "category": "urban",
+  "path": "wallpapers/urban/shibuya crossing.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/urban/shibuya%20crossing.png",
+  "description": "Busy Shibuya Crossing in Tokyo with neon lights and crowds",
+  "tags": ["urban"]
+},
+  {
+  "name": "Robin",
+  "filename": "robin.png",
+  "category": "wildlife",
+  "path": "wallpapers/wildlife/robin.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/wildlife/robin.png",
+  "description": "dr robin seoh",
+  "tags": ["wildlife"]
+},
   {
     "name": "Baden-Baden Black Forest",
     "filename": "baden-baden black forest.png",
@@ -26,7 +106,7 @@
     "description": "Famous rock formation known as Nature's Window in Kalbarri National Park",
     "tags": ["nature"]
   },
-  { "name": "Penida Kelingking", "filename": "penida kelingkeling.png", "category": "nature", "path": "wallpapers/nature/penida kelingkeling.png", "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/nature/penida%20kelingkeling.png", "description": "Kelingking Beach cliffs on Nusa Penida island, Indonesia", "tags": ["nature"] },
+  { "name": "Penida Kelingking", "filename": "penida kelingkeling.png", "category": "landscapes", "path": "wallpapers/landscapes/penida kelingkeling.png", "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/penida%20kelingkeling.png", "description": "Kelingking Beach cliffs on Nusa Penida island, Indonesia", "tags": ["nature"] },
   {
     "name": "O Qui Ho Pass",
     "filename": "o qui ho pass.png",
@@ -58,9 +138,9 @@
   {
     "name": "Sea Cliffs of Kalbarri",
     "filename": "sea cliffs of kalbarri.png",
-    "category": "nature",
-    "path": "wallpapers/nature/sea cliffs of kalbarri.png",
-    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/nature/sea%20cliffs%20of%20kalbarri.png",
+    "category": "landscapes",
+    "path": "wallpapers/landscapes/sea cliffs of kalbarri.png",
+    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/sea%20cliffs%20of%20kalbarri.png",
     "description": "Dramatic sea cliffs along the Kalbarri coast in Western Australia",
     "tags": ["nature"]
   },
