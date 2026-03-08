@@ -2,27 +2,27 @@
   {
     "name": "Baden-Baden Black Forest",
     "filename": "baden-baden black forest.png",
-    "category": "nature",
-    "path": "wallpapers/nature/baden-baden black forest.png",
-    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/nature/baden-baden%20black%20forest.png",
+    "category": "landscapes",
+    "path": "wallpapers/landscapes/baden-baden black forest.png",
+    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/baden-baden%20black%20forest.png",
     "description": "Scenic landscape of Baden-Baden in the Black Forest, Germany",
     "tags": ["nature"]
   },
   {
     "name": "Cliffs of Monkey Mia",
     "filename": "cliffs of monkey mia.png",
-    "category": "nature",
-    "path": "wallpapers/nature/cliffs of monkey mia.png",
-    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/nature/cliffs%20of%20monkey%20mia.png",
+    "category": "landscapes",
+    "path": "wallpapers/landscapes/cliffs of monkey mia.png",
+    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/cliffs%20of%20monkey%20mia.png",
     "description": "Red coastal cliffs near Monkey Mia, Western Australia",
     "tags": ["nature"]
   },
   {
     "name": "Nature's Window",
     "filename": "nature's window.png",
-    "category": "nature",
-    "path": "wallpapers/nature/nature's window.png",
-    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/nature/nature's%20window.png",
+    "category": "landscapes",
+    "path": "wallpapers/landscapes/nature's window.png",
+    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/nature's%20window.png",
     "description": "Famous rock formation known as Nature's Window in Kalbarri National Park",
     "tags": ["nature"]
   },
@@ -30,9 +30,9 @@
   {
     "name": "O Qui Ho Pass",
     "filename": "o qui ho pass.png",
-    "category": "nature",
-    "path": "wallpapers/nature/o qui ho pass.png",
-    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/nature/o%20qui%20ho%20pass.png",
+    "category": "landscapes",
+    "path": "wallpapers/landscapes/o qui ho pass.png",
+    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/o%20qui%20ho%20pass.png",
     "description": "Mountain pass with dramatic landscapes in northern Vietnam",
     "tags": ["nature"]
   },
@@ -40,18 +40,18 @@
   {
     "name": "Rudesheim",
     "filename": "rudesheim.png",
-    "category": "nature",
-    "path": "wallpapers/nature/rudesheim.png",
-    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/nature/rudesheim.png",
+    "category": "landscapes",
+    "path": "wallpapers/landscapes/rudesheim.png",
+    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/rudesheim.png",
     "description": "Riverside town scenery in Rüdesheim along the Rhine River, Germany",
     "tags": ["nature"]
   },
   {
     "name": "Sa Pa Vietnam",
     "filename": "sa pa vietnam.png",
-    "category": "nature",
-    "path": "wallpapers/nature/sa pa vietnam.png",
-    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/nature/sa%20pa%20vietnam.png",
+    "category": "landscapes",
+    "path": "wallpapers/landscapes/sa pa vietnam.png",
+    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/sa%20pa%20vietnam.png",
     "description": "Terraced rice fields and mountains in Sa Pa, Vietnam",
     "tags": ["nature"]
   },
@@ -67,27 +67,27 @@
   {
     "name": "Ulun Danu Beratan",
     "filename": "ulun danu beratan.png",
-    "category": "nature",
-    "path": "wallpapers/nature/ulun danu beratan.png",
-    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/nature/ulun%20danu%20beratan.png",
+    "category": "landscapes",
+    "path": "wallpapers/landscapes/ulun danu beratan.png",
+    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/ulun%20danu%20beratan.png",
     "description": "Ulun Danu Beratan temple on Lake Beratan in Bali, Indonesia",
     "tags": ["nature"]
   },
   {
     "name": "Vlamingh Head Lighthouse",
     "filename": "vlamingh head lighthouse.png",
-    "category": "nature",
-    "path": "wallpapers/nature/vlamingh head lighthouse.png",
-    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/nature/vlamingh%20head%20lighthouse.png",
+    "category": "landscapes",
+    "path": "wallpapers/landscapes/vlamingh head lighthouse.png",
+    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/vlamingh%20head%20lighthouse.png",
     "description": "Historic lighthouse overlooking the Indian Ocean in Western Australia",
     "tags": ["nature"]
   },
   {
     "name": "Yardie Creek Sandbar",
     "filename": "yardie creek sandbar.png",
-    "category": "nature",
-    "path": "wallpapers/nature/yardie creek sandbar.png",
-    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/nature/yardie%20creek%20sandbar.png",
+    "category": "landscapes",
+    "path": "wallpapers/landscapes/yardie creek sandbar.png",
+    "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/yardie%20creek%20sandbar.png",
     "description": "Sandbar and coastal landscape at Yardie Creek in Ningaloo Coast",
     "tags": ["nature"]
   }
