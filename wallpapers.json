@@ -251,5 +251,86 @@
   "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/abstract/window.png",
   "description": "Abstract geometric window light pattern",
   "tags": ["abstract"]
+},
+    {
+  "name": "Pelican",
+  "filename": "pelican.png",
+  "category": "wildlife",
+  "path": "wallpapers/wildlife/pelican.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/wildlife/pelican.png",
+  "description": "Pelican standing near water with dramatic natural lighting",
+  "tags": ["wildlife"]
+},
+{
+  "name": "Owl",
+  "filename": "owl.png",
+  "category": "wildlife",
+  "path": "wallpapers/wildlife/owl.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/wildlife/owl.png",
+  "description": "Close-up portrait of an owl with striking eyes",
+  "tags": ["wildlife"]
+},
+{
+  "name": "Leopard",
+  "filename": "leopard.png",
+  "category": "wildlife",
+  "path": "wallpapers/wildlife/leopard.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/wildlife/leopard.png",
+  "description": "Leopard resting on a tree branch in the wild",
+  "tags": ["wildlife"]
+},
+{
+  "name": "Kingfisher",
+  "filename": "kingfisher.png",
+  "category": "wildlife",
+  "path": "wallpapers/wildlife/kingfisher.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/wildlife/kingfisher.png",
+  "description": "Brightly colored kingfisher perched above water",
+  "tags": ["wildlife"]
+},
+{
+  "name": "Gorilla",
+  "filename": "gorilla.png",
+  "category": "wildlife",
+  "path": "wallpapers/wildlife/gorilla.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/wildlife/gorilla.png",
+  "description": "Portrait of a powerful gorilla in its natural habitat",
+  "tags": ["wildlife"]
+},
+{
+  "name": "Flamingo",
+  "filename": "flamingo.png",
+  "category": "wildlife",
+  "path": "wallpapers/wildlife/flamingo.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/wildlife/flamingo.png",
+  "description": "Elegant flamingo standing in shallow water",
+  "tags": ["wildlife"]
+},
+{
+  "name": "Elephant",
+  "filename": "elephant.png",
+  "category": "wildlife",
+  "path": "wallpapers/wildlife/elephant.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/wildlife/elephant.png",
+  "description": "Elephant walking across a savannah landscape",
+  "tags": ["wildlife"]
+},
+{
+  "name": "Coral",
+  "filename": "coral.png",
+  "category": "wildlife",
+  "path": "wallpapers/wildlife/coral.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/wildlife/coral.png",
+  "description": "Vibrant coral reef underwater scene",
+  "tags": ["wildlife"]
+},
+{
+  "name": "Bear",
+  "filename": "bear.png",
+  "category": "wildlife",
+  "path": "wallpapers/wildlife/bear.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/wildlife/bear.png",
+  "description": "Bear standing in a forest environment",
+  "tags": ["wildlife"]
 }
 ]
