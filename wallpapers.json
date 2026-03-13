@@ -8,15 +8,6 @@
     "tags": ["abstract"]
   },
   {
-  "name": "Shahrazad",
-  "filename": "shahrazad.png",
-  "category": "art_deco",
-  "path": "wallpapers/art_deco/shahrazad.png",
-  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/art_deco/shahrazad.png",
-  "description": "Art Deco style illustration inspired by Shahrazad",
-  "tags": ["art_deco"]
-},
-  {
   "name": "King Tut",
   "filename": "king tut.png",
   "category": "artefacts",
@@ -42,15 +33,6 @@
   "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/food_and_drink/gin%20tonic.png",
   "description": "Refreshing gin and tonic drink with ice and lime",
   "tags": ["food_and_drink"]
-},
-  {
-  "name": "Cassette",
-  "filename": "cassette.png",
-  "category": "retro",
-  "path": "wallpapers/retro/cassette.png",
-  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/retro/cassette.png",
-  "description": "Retro cassette tape representing vintage music culture",
-  "tags": ["retro"]
 },
   {
   "name": "Milky Way",
@@ -332,5 +314,364 @@
   "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/wildlife/bear.png",
   "description": "Bear standing in a forest environment",
   "tags": ["wildlife"]
+},
+    {
+  "name": "Arab Bath",
+  "filename": "arab bath.png",
+  "category": "artefacts",
+  "path": "wallpapers/artefacts/arab bath.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/artefacts/arab%20bath.png",
+  "description": "Historic Arab bath architecture with intricate patterns",
+  "tags": ["artefacts"]
+},
+{
+  "name": "Baku",
+  "filename": "baku.png",
+  "category": "artefacts",
+  "path": "wallpapers/artefacts/baku.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/artefacts/baku.png",
+  "description": "Historic architectural artefacts from Baku",
+  "tags": ["artefacts"]
+},
+{
+  "name": "Old Book",
+  "filename": "book old.png",
+  "category": "artefacts",
+  "path": "wallpapers/artefacts/book old.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/artefacts/book%20old.png",
+  "description": "Ancient worn book representing historical manuscripts",
+  "tags": ["artefacts"]
+},
+{
+  "name": "Jaguar Throne Mayan",
+  "filename": "jaguar throne mayan.png",
+  "category": "artefacts",
+  "path": "wallpapers/artefacts/jaguar throne mayan.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/artefacts/jaguar%20throne%20mayan.png",
+  "description": "Ancient Mayan jaguar throne artefact",
+  "tags": ["artefacts"]
+},
+{
+  "name": "Roman Coin",
+  "filename": "roman coin.png",
+  "category": "artefacts",
+  "path": "wallpapers/artefacts/roman coin.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/artefacts/roman%20coin.png",
+  "description": "Ancient Roman coin featuring imperial imagery",
+  "tags": ["artefacts"]
+},
+{
+  "name": "Roman Road",
+  "filename": "roman road.png",
+  "category": "artefacts",
+  "path": "wallpapers/artefacts/roman road.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/artefacts/roman%20road.png",
+  "description": "Historic Roman stone road demonstrating ancient engineering",
+  "tags": ["artefacts"]
+},
+    {
+  "name": "Circle",
+  "filename": "circle.png",
+  "category": "cyberpunk",
+  "path": "wallpapers/cyberpunk/circle.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/cyberpunk/circle.png",
+  "description": "Neon cyberpunk circle design with glowing futuristic accents",
+  "tags": ["cyberpunk"]
+},
+{
+  "name": "Cyberpunk Abstract Pattern Swirling",
+  "filename": "cyberpunk abstract pattern swirling.png",
+  "category": "cyberpunk",
+  "path": "wallpapers/cyberpunk/cyberpunk abstract pattern swirling.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/cyberpunk/cyberpunk%20abstract%20pattern%20swirling.png",
+  "description": "Swirling cyberpunk abstract neon pattern",
+  "tags": ["cyberpunk"]
+},
+{
+  "name": "Lamp",
+  "filename": "lamp.png",
+  "category": "cyberpunk",
+  "path": "wallpapers/cyberpunk/lamp.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/cyberpunk/lamp.png",
+  "description": "Cyberpunk-style glowing street lamp in a futuristic city",
+  "tags": ["cyberpunk"]
+},
+{
+  "name": "Old Palm Trees",
+  "filename": "old palm trees.png",
+  "category": "cyberpunk",
+  "path": "wallpapers/cyberpunk/old palm trees.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/cyberpunk/old%20palm%20trees.png",
+  "description": "Retro-futuristic cyberpunk palm trees under neon lights",
+  "tags": ["cyberpunk"]
+},
+{
+  "name": "Robot Arm",
+  "filename": "robot arm.png",
+  "category": "cyberpunk",
+  "path": "wallpapers/cyberpunk/robot arm.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/cyberpunk/robot%20arm.png",
+  "description": "Futuristic robotic arm with glowing cyberpunk aesthetics",
+  "tags": ["cyberpunk"]
+},
+{
+  "name": "Spacetime",
+  "filename": "spacetime.png",
+  "category": "cyberpunk",
+  "path": "wallpapers/cyberpunk/spacetime.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/cyberpunk/spacetime.png",
+  "description": "Abstract spacetime distortion visualized in neon cyberpunk colors",
+  "tags": ["cyberpunk"]
+}, {
+  "name": "Berries and Lamb",
+  "filename": "berries and lamb.png",
+  "category": "food_and_drink",
+  "path": "wallpapers/food_and_drink/berries and lamb.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/food_and_drink/berries%20and%20lamb.png",
+  "description": "Gourmet dish of lamb served with fresh berries",
+  "tags": ["food_and_drink"]
+},
+{
+  "name": "Burger",
+  "filename": "burger.png",
+  "category": "food_and_drink",
+  "path": "wallpapers/food_and_drink/burger.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/food_and_drink/burger.png",
+  "description": "Juicy burger with layered ingredients and melted cheese",
+  "tags": ["food_and_drink"]
+},
+{
+  "name": "Coffee",
+  "filename": "coffee.png",
+  "category": "food_and_drink",
+  "path": "wallpapers/food_and_drink/coffee.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/food_and_drink/coffee.png",
+  "description": "Freshly brewed coffee in a warm cup",
+  "tags": ["food_and_drink"]
+},
+{
+  "name": "Flambe",
+  "filename": "flambe.png",
+  "category": "food_and_drink",
+  "path": "wallpapers/food_and_drink/flambe.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/food_and_drink/flambe.png",
+  "description": "Dish being flambéed with dramatic flames",
+  "tags": ["food_and_drink"]
+},
+{
+  "name": "Smore",
+  "filename": "smore.png",
+  "category": "food_and_drink",
+  "path": "wallpapers/food_and_drink/smore.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/food_and_drink/smore.png",
+  "description": "Classic campfire s'more with toasted marshmallow and chocolate",
+  "tags": ["food_and_drink"]
+},
+{
+  "name": "Steak",
+  "filename": "steak.png",
+  "category": "food_and_drink",
+  "path": "wallpapers/food_and_drink/steak.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/food_and_drink/steak.png",
+  "description": "Grilled steak with rich seared texture",
+  "tags": ["food_and_drink"]
+},
+{
+  "name": "Taco",
+  "filename": "taco.png",
+  "category": "food_and_drink",
+  "path": "wallpapers/food_and_drink/taco.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/food_and_drink/taco.png",
+  "description": "Mexican taco filled with meat, vegetables, and toppings",
+  "tags": ["food_and_drink"]
+},
+{
+  "name": "Turkey",
+  "filename": "turkey.png",
+  "category": "food_and_drink",
+  "path": "wallpapers/food_and_drink/turkey.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/food_and_drink/turkey.png",
+  "description": "Roasted turkey dish with golden crispy skin",
+  "tags": ["food_and_drink"]
+},
+{
+  "name": "Waffle",
+  "filename": "waffle.png",
+  "category": "food_and_drink",
+  "path": "wallpapers/food_and_drink/waffle.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/food_and_drink/waffle.png",
+  "description": "Golden waffle topped with syrup and toppings",
+  "tags": ["food_and_drink"]
+},
+    {
+  "name": "Jupiter",
+  "filename": "jupiter.png",
+  "category": "space",
+  "path": "wallpapers/space/jupiter.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/space/jupiter.png",
+  "description": "Planet Jupiter with its distinctive bands and storms",
+  "tags": ["space"]
+},
+{
+  "name": "Mars",
+  "filename": "mars.png",
+  "category": "space",
+  "path": "wallpapers/space/mars.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/space/mars.png",
+  "description": "The red planet Mars with dusty terrain and craters",
+  "tags": ["space"]
+},
+{
+  "name": "Milky Way Bright",
+  "filename": "milky way bright.png",
+  "category": "space",
+  "path": "wallpapers/space/milky way bright.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/space/milky%20way%20bright.png",
+  "description": "Bright view of the Milky Way galaxy filled with stars",
+  "tags": ["space"]
+},
+{
+  "name": "More Nebula",
+  "filename": "more nebula.png",
+  "category": "space",
+  "path": "wallpapers/space/more nebula.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/space/more%20nebula.png",
+  "description": "Colorful cosmic nebula cloud with glowing gases",
+  "tags": ["space"]
+},
+{
+  "name": "Nebula",
+  "filename": "nebula.png",
+  "category": "space",
+  "path": "wallpapers/space/nebula.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/space/nebula.png",
+  "description": "Deep space nebula with luminous cosmic dust",
+  "tags": ["space"]
+},
+{
+  "name": "Neptune",
+  "filename": "neptune.png",
+  "category": "space",
+  "path": "wallpapers/space/neptune.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/space/neptune.png",
+  "description": "Planet Neptune with its deep blue atmosphere",
+  "tags": ["space"]
+},
+{
+  "name": "Saturn",
+  "filename": "saturn.png",
+  "category": "space",
+  "path": "wallpapers/space/saturn.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/space/saturn.png",
+  "description": "Saturn and its iconic ring system",
+  "tags": ["space"]
+},
+{
+  "name": "Starman",
+  "filename": "starman.png",
+  "category": "space",
+  "path": "wallpapers/space/starman.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/space/starman.png",
+  "description": "Astronaut floating in space against a starfield",
+  "tags": ["space"]
+},
+{
+  "name": "Venus",
+  "filename": "venus.png",
+  "category": "space",
+  "path": "wallpapers/space/venus.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/space/venus.png",
+  "description": "Planet Venus with thick atmospheric clouds",
+  "tags": ["space"]
+},
+    {
+  "name": "Berlin",
+  "filename": "berlin.png",
+  "category": "urban",
+  "path": "wallpapers/urban/berlin.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/urban/berlin.png",
+  "description": "Urban skyline and architecture of Berlin",
+  "tags": ["urban"]
+},
+{
+  "name": "Statue of Liberty",
+  "filename": "liberty.png",
+  "category": "urban",
+  "path": "wallpapers/urban/liberty.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/urban/liberty.png",
+  "description": "The Statue of Liberty overlooking New York Harbor",
+  "tags": ["urban"]
+},
+{
+  "name": "London St Paul",
+  "filename": "london st paul.png",
+  "category": "urban",
+  "path": "wallpapers/urban/london st paul.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/urban/london%20st%20paul.png",
+  "description": "St Paul's Cathedral rising above the London skyline",
+  "tags": ["urban"]
+},
+{
+  "name": "London",
+  "filename": "london.png",
+  "category": "urban",
+  "path": "wallpapers/urban/london.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/urban/london.png",
+  "description": "Cityscape of London with historic and modern buildings",
+  "tags": ["urban"]
+},
+{
+  "name": "Paris",
+  "filename": "paris.png",
+  "category": "urban",
+  "path": "wallpapers/urban/paris.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/urban/paris.png",
+  "description": "Iconic Paris cityscape with classic European architecture",
+  "tags": ["urban"]
+},
+{
+  "name": "Rio",
+  "filename": "rio.png",
+  "category": "urban",
+  "path": "wallpapers/urban/rio.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/urban/rio.png",
+  "description": "Rio de Janeiro skyline with mountains and city lights",
+  "tags": ["urban"]
+},
+{
+  "name": "Shanghai",
+  "filename": "shanghai.png",
+  "category": "urban",
+  "path": "wallpapers/urban/shanghai.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/urban/shanghai.png",
+  "description": "Modern skyline of Shanghai with futuristic skyscrapers",
+  "tags": ["urban"]
+},
+{
+  "name": "Singapore",
+  "filename": "spore.png",
+  "category": "urban",
+  "path": "wallpapers/urban/spore.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/urban/spore.png",
+  "description": "Singapore skyline with modern architecture and waterfront",
+  "tags": ["urban"]
+},
+{
+  "name": "Sydney",
+  "filename": "sydney.png",
+  "category": "urban",
+  "path": "wallpapers/urban/sydney.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/urban/sydney.png",
+  "description": "Sydney skyline featuring the harbour and iconic landmarks",
+  "tags": ["urban"]
+},
+{
+  "name": "Times Square",
+  "filename": "times sq.png",
+  "category": "urban",
+  "path": "wallpapers/urban/times sq.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/urban/times%20sq.png",
+  "description": "Bright neon lights and billboards of Times Square in New York",
+  "tags": ["urban"]
 }
 ]
