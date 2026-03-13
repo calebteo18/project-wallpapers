@@ -170,5 +170,86 @@
     "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/landscapes/yardie%20creek%20sandbar.png",
     "description": "Sandbar and coastal landscape at Yardie Creek in Ningaloo Coast",
     "tags": ["nature"]
-  }
+  },
+    {
+  "name": "City Lights in Rain",
+  "filename": "city lights in rain.png",
+  "category": "abstract",
+  "path": "wallpapers/abstract/city lights in rain.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/abstract/city%20lights%20in%20rain.png",
+  "description": "Abstract neon city lights reflecting in rain",
+  "tags": ["abstract"]
+},
+{
+  "name": "Dark Glitter",
+  "filename": "dark glitter.png",
+  "category": "abstract",
+  "path": "wallpapers/abstract/dark glitter.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/abstract/dark%20glitter.png",
+  "description": "Dark glittering abstract background with sparkling particles",
+  "tags": ["abstract"]
+},
+{
+  "name": "Flow",
+  "filename": "flow.png",
+  "category": "abstract",
+  "path": "wallpapers/abstract/flow.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/abstract/flow.png",
+  "description": "Smooth flowing abstract gradient with dynamic motion",
+  "tags": ["abstract"]
+},
+{
+  "name": "Mercury",
+  "filename": "mercury.png",
+  "category": "abstract",
+  "path": "wallpapers/abstract/mercury.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/abstract/mercury.png",
+  "description": "Liquid-metal inspired abstract texture resembling mercury",
+  "tags": ["abstract"]
+},
+{
+  "name": "Pink Lights",
+  "filename": "pink lights.png",
+  "category": "abstract",
+  "path": "wallpapers/abstract/pink lights.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/abstract/pink%20lights.png",
+  "description": "Soft pink glowing light streaks in an abstract composition",
+  "tags": ["abstract"]
+},
+{
+  "name": "Purple Glitter",
+  "filename": "purple glitter.png",
+  "category": "abstract",
+  "path": "wallpapers/abstract/purple glitter.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/abstract/purple%20glitter.png",
+  "description": "Purple glitter abstract background with shimmering highlights",
+  "tags": ["abstract"]
+},
+{
+  "name": "Screen",
+  "filename": "screen.png",
+  "category": "abstract",
+  "path": "wallpapers/abstract/screen.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/abstract/screen.png",
+  "description": "Minimal abstract digital screen texture",
+  "tags": ["abstract"]
+},
+{
+  "name": "Sunset",
+  "filename": "sunset.png",
+  "category": "abstract",
+  "path": "wallpapers/abstract/sunset.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/abstract/sunset.png",
+  "description": "Abstract sunset gradient with warm glowing tones",
+  "tags": ["abstract"]
+},
+{
+  "name": "Window",
+  "filename": "window.png",
+  "category": "abstract",
+  "path": "wallpapers/abstract/window.png",
+  "url": "https://raw.githubusercontent.com/calebteo18/project-wallpapers/main/wallpapers/abstract/window.png",
+  "description": "Abstract geometric window light pattern",
+  "tags": ["abstract"]
+}
 ]
